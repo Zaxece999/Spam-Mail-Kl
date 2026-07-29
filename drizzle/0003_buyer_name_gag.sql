@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN buyer_name_gag TEXT NOT NULL DEFAULT '-';

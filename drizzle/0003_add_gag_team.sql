@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN address_gag TEXT NOT NULL DEFAULT '-';
